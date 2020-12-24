@@ -12,7 +12,7 @@ This is an example of re-entrancy attack on single function.
 ## Test
 
 ```
-// install run ganache-cli in the other terminal
+// install and run ganache-cli in the other terminal
 $ ganache-cli
 
 $ truffle console
