@@ -4,13 +4,17 @@ This is an example of re-entrancy attack on single function.
 
 ## Version
 
-Truffle v5.0.8 (core: 5.0.8)
-Solidity - 0.5.0 (solc-js)
-Node v12.2.0
+- Truffle v5.0.8 (core: 5.0.8)
+- Solidity - 0.5.0 (solc-js)
+- Node v12.2.0
+- Ganache CLI v6.12.1 (ganache-core: 2.13.1)
 
 ## Test
 
 ```
+// install run ganache-cli in the other terminal
+$ ganache-cli
+
 $ truffle console
 $ truffle(development)> test
 ```
