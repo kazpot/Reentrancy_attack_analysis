@@ -9,6 +9,13 @@ This is an example of re-entrancy attack on single function.
 - Node v12.2.0
 - Ganache CLI v6.12.1 (ganache-core: 2.13.1)
 
+## Install Node.js
+
+```
+$ sudo npm install -g n
+$ sudo n 12.2.0
+```
+
 ## Test
 
 ```
